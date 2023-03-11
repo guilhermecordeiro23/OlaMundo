@@ -8,4 +8,6 @@ Esta linha eu adicionei diretamente no site. QUE IMPRESSIONANTE!!
 ---
 Utilizando linguagem Markdown:
 
--[] Criar task para página
+- Criar repositórios para o projeto
+- Gerenciar histórico dos codigos 
+- Utilizar **Git e GitHub** para o versionamento do projeto
